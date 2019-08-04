@@ -1,0 +1,398 @@
+#EXTM3U
+#EXTINF:0,Cbeebees
+#EXTGRP:Kids
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#EXTINF:0,CBBC
+#EXTGRP:Kids
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:0,Nick
+#EXTGRP:Kids
+http://130.185.150.79:1935/trunk/NICK/playlist.m3u8
+#EXTINF:0,Sky Disney 
+#EXTGRP:Kids
+http://95.170.215.118/hls/m3u8/Sky-MoviesDisney.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:0,Sky Family 
+#EXTGRP:Kids
+http://95.170.215.118/hls/m3u8/Sky-MoviesFamily.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:0,Geo News
+#EXTGRP:NEWS
+https://streamer64.ebound.tv/geo/geonews_abr/geo/geonews_master/playlist.m3u8
+#EXTINF:0,ARY News
+#EXTGRP:NEWS
+http://158.69.229.29:8081/newslive/livestream/playlist.m3u8
+#EXTINF:0,Dunya News
+#EXTGRP:NEWS
+http://109.169.19.173:1935/live/dunyalive_1/playlist.m3u8
+#EXTINF:0,Aap News
+#EXTGRP:NEWS
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/38168
+#EXTINF:0,92 News HD
+#EXTGRP:NEWS
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:0,Samaa
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive2/samaanews3/playlist.m3u8?
+#EXTINF:0,Express News
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive2/expressnews3/playlist.m3u8?
+#EXTINF:0,Hum News
+#EXTGRP:NEWS
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/38194
+#EXTINF:0,Aaj news
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive2/aajnews3/playlist.m3u8?
+#EXTINF:0, MTV Beats HD
+#EXTGRP:Music
+http://delta14.joovox.com/r/cid/MTV_Beats_HD.m3u8
+#EXTINF:0,B4U Music
+#EXTGRP:Music
+https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&amp;dw=7200&b=100-2500&amp;rebase=on
+#EXTINF:0,B4U Music UK 
+#EXTGRP:Music
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/15332
+#EXTINF:0, Sony Mix
+#EXTGRP:Music
+http://live.airtel.tv/sonymix/smil:common.smil/chunklist.m3u8
+#EXTINF:0, Mastiii
+#EXTGRP:Music
+http://live.airtel.tv/mastiii/smil:common.smil/chunklist.m3u8
+#EXTINF:0,ETC
+#EXTGRP:Music
+https://msluk5s.akamaized.net/hls/live/2000170/zeesmilemsl/zeesmile_1100/chunklist.m3u8
+#EXTINF:0, Dil Se
+#EXTGRP:Music
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:0, Kadak
+#EXTGRP:Music
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,9XM
+#EXTGRP:Music
+http://live.airtel.tv/9xm/smil:common.smil/chunklist.m3u8
+#EXTINF:0, 9X Jalwa 
+#EXTGRP:Music
+http://live.airtel.tv/9xjalwa/smil:common.smil/chunklist.m3u8
+#EXTINF:0,Wow
+#EXTGRP:Music
+http://live.airtel.tv/wowmusic/smil:common.smil/chunklist.m3u8
+#EXTINF:0,E24
+#EXTGRP:Music
+http://live.airtel.tv/e24/smil:common.smil/chunklist.m3u8
+#EXTINF:0,Music India
+#EXTGRP:Music
+https://ylive72-i.akamaihd.net/hls/live/691745/musicindia/musicindia_2000/chunklist.m3u8
+#EXTINF:0,Zing
+#EXTGRP:Music
+http://pockettv.xyz/api/zee.m3u8?c=zing
+#EXTINF:0,Zing USA
+#EXTGRP:Music
+http://pockettv.xyz/api/zee.m3u8?c=zingusa
+#EXTINF:0, Raavi
+#EXTGRP:Music
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/38089?
+#EXTINF:0, Aaho!
+#EXTGRP:Music
+https://v.viralshit.in/live/aahomusic.m3u8?
+#EXTINF:0,Zee Cinema HD
+#EXTGRP:Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+#EXTINF:0,Zee Cinema 
+#EXTGRP:Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+#EXTINF:0,Zee Cinema USA
+#EXTGRP:Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=cinemausa
+#EXTINF:0,Zee Cinema UK
+#EXTGRP:Bollywood 
+http://pockettv.xyz/api/zee.m3u8?c=cinemauk 
+#EXTINF:0,And Pictures HD
+#EXTGRP:Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:0,And Pictures SD
+#EXTGRP:Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=andpicssd
+#EXTINF:0,Sony Max HD
+#EXTGRP:Bollywood
+http://delta14.joovox.com/r/cid/Sony_Max_HD.m3u8
+#EXTINF:0,Sony Max 
+#EXTGRP:Bollywood
+http://live.airtel.tv/sonymax/smil:common.smil/chunklist.m3u8
+#EXTINF:0,SET Max UK
+#EXTGRP:Bollywood
+https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/playlist.m3u8
+#EXTINF:0,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+hsl2/playlist.m3u8
+#EXTINF:0,Star Gold UK
+#EXTGRP:Bollywood
+http://voxtv.dynns.com:8000/movies/movies/191
+#EXTINF:0,Star Gold HD
+#EXTGRP:Bollywood
+https://akamai.anytv.live/StarGoldHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Gold 
+#EXTGRP:Bollywood
+http://live.aslivetv.club/tv/hot.php?cid=stargold.m3u8
+
+#EXTINF:0, Colors Cineplex HD
+#EXTGRP:Bollywood
+http://103.205.133.44:1935/ns/CINEPLEXHD/playlist.m3u8
+#EXTINF:0,Colors Cineplex 
+#EXTGRP:Bollywood
+http://delta14.joovox.com/r/cid/Rishtey_Cineplex.m3u8
+#EXTINF:0,Colors Cineplex UK
+#EXTGRP:Bollywood
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/15302
+#EXTINF:0,Sony Max 2
+#EXTGRP:Bollywood
+http://live.airtel.tv/sonymax2/smil:common.smil/chunklist.m3u8
+#EXTINF:0,B4U Movies APAC
+#EXTGRP:Bollywood
+https://msllive.yuppcdn.net/live/yuppmslukmo/hls/live/2006787/b4umoviesint/b4umoviesint/playlist/master.m3u8
+#EXTINF:0,B4U Movies HD
+#EXTGRP:Bollywood
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
+#EXTINF:0,Sony Wah
+#EXTGRP:Bollywood
+http://live.airtel.tv/sonywah/smil:common.smil/chunklist.m3u8
+#EXTINF:0,Star Gold Select 
+#EXTGRP:Bollywood
+http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
+#EXTINF:0,B4U Movies UK
+#EXTGRP:Bollywood
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/15333
+#EXTINF:0,Zee Action
+#EXTGRP:Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:0,Zee Bollywood
+#EXTGRP:Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:0,UTV HD
+#EXTGRP:Bollywood
+http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
+#EXTINF:0,Zee Anmol Cinema
+#EXTGRP:Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
+#EXTINF:0,Pitaara
+#EXTGRP:Hollywood
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
+#EXTINF:0,PTC Punjabi Gold
+#EXTGRP:Hollywood
+http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
+#EXTINF:0,HUM TV HD
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive2/humtv3/playlist.m3u8?
+#EXTINF:0,Hum Europe
+#EXTGRP:Drama
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/15321
+#EXTINF:0,ARY Digital
+#EXTGRP:Drama
+http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream/playlist.m3u8
+#EXTINF:0,ARY Family
+#EXTGRP:Drama
+http://voxtv.dynns.com:8000/movies/movies/511
+#EXTINF:0,Geo TV
+#EXTGRP:Drama
+http://stream1.jeem.tv/geo/geoentertainment_abr/playlist.m3u8
+#EXTINF:0,Geo Kahani
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/334
+#EXTINF:0,Geo UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/554
+#EXTINF:0,ARY Zindagi
+#EXTGRP:Drama
+http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/playlist.m3u8
+#EXTINF:0,Zee TV HD
+#EXTGRP:Drama
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:0,Zee TV 
+#EXTGRP:Drama
+http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
+#EXTINF:0,Zee TV UK
+#EXTGRP:Drama
+http://pockettv.xyz/api/zee.m3u8?c=ztvuk
+#EXTINF:0,Sony TV HD
+#EXTGRP:Drama
+http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
+#EXTINF:0,Sony TV UK
+#EXTGRP:Drama
+http://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/playlist.m3u8
+#EXTINF:0,Star Plus HD
+#EXTGRP:Drama
+http://voxtv.dynns.com:8000/movies/movies/131
+#EXTINF:0,Star Plus 
+#EXTGRP:Drama
+http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
+#EXTINF:0,Star Plus UK
+#EXTGRP:Drama
+https://msleurope8.akamaized.net/hls/live/2003252/starplusukpxy/starplusuk_2500/chunklist.m3u8
+#EXTINF:0,Star Bharat
+#EXTGRP:Drama
+https://mslapacs.akamaized.net/hls/live/692167/lifeokau/playlist.m3u8
+#EXTINF:0,Star Bharat UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/358
+#EXTINF:0,Colors HD
+#EXTGRP:Drama
+http://103.205.133.44:1935/ns/COLORSINDIAHD/playlist.m3u8
+#EXTINF:0,Colors APAC
+#EXTGRP:Drama
+Https://mslapacs.akamaized.net/hls/live/692167/colorsau/playlist.m3u8
+#EXTINF:0,Colors UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/203
+#EXTINF:0,And TV HD
+#EXTGRP:Drama
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:0,And TV
+#EXTGRP:Drama
+https://mslapacs.akamaized.net/hls/live/692167/andtvapachd/playlist.m3u8
+#EXTINF:0,And TV UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/400
+#EXTINF:0,Rishtey UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/402
+#EXTINF:0,Sab HD
+#EXTGRP:Drama
+http://voxtv.dynns.com:8000/movies/movies/502
+#EXTINF:0,Sab UK
+#EXTGRP:Drama
+http://voxtv.dynns.com:8000/indian/indian/481
+
+#EXTINF:0,And Flix HD
+#EXTGRP:Hollywood
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:0,And Privé HD
+#EXTGRP:Hollywood
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:0,Star Movies
+#EXTGRP:Hollywood
+http://103.231.228.229/hls/HDMI-EARTEL4.m3u8
+#EXTINF:0,Sony Pix HD
+#EXTGRP:Hollywood
+http://live.airtel.tv/pixhd/smil:common.smil/chunklist.m3u8
+#EXTINF:0,Sky Cinema Drama
+#EXTGRP:Hollywood
+http://95.170.215.118/hls/m3u8/Sky-MoviesDrama.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:0,Sky Cinema Action
+#EXTGRP:Hollywood
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:0,Sky Cinema Thriller
+#EXTGRP:Hollywood
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/8165
+#EXTINF:0,Sky Cinema Premier
+#EXTGRP:Hollywood
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremiem3u8|user-agent="Lavf/56.15.102"
+#EXTINF:0,Sky Cinema SCI-FI HorrorEXTGRP:Hollywood
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/8168
+#EXTINF:0,Sky Cinema Select
+#EXTGRP:Hollywood
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
+#EXTINF:0,Sky Cinema Comedy
+#EXTGRP:Hollywood
+http://95.170.215.118/hls/m3u8/Sky-MoviesComedy.m3u8
+#EXTINF:0,Romedy Now
+#EXTGRP:Hollywood
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:0,Movies Now
+#EXTGRP:Hollywood
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:Hollywood
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:0,Discovery HD
+#EXTGRP:Infotainment
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:Infotainment
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,Animal Planet 
+#EXTGRP:Infotainment
+http://delta14.joovox.com/r/cid/Animal_Planet_Hindi.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Infotainment
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0,Discovery Hindi
+#EXTGRP:Infotainment
+http://delta14.joovox.com/r/cid/Discovery_Channel_Hindi.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:Infotainment
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:Infotainment
+http://hs01.spicyiptv.com:80/mhdtvworld/vn0MjeodUj/331.m3u8
+#EXTINF:0,Discovery ID
+#EXTGRP:Infotainment
+http://hs01.spicyiptv.com:80/mhdtvworld/vn0MjeodUj/489
+#EXTINF:0,Sony BBC Earth 
+#EXTGRP:Infotainment
+http://live.airtel.tv/sonybbcearthhdenglish/smil:common.smil/chunklist.m3u8
+#EXTINF:0,TRT World
+#EXTGRP:World News
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0,Sky News
+#EXTGRP:World News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,RT
+#EXTGRP:World News
+https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
+#EXTINF:0,Aljazeera
+#EXTGRP:World News
+https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
+#EXTINF:0,BBC News
+#EXTGRP:World News
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:World News
+http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
+#EXTINF:0, Star Sports 1
+#EXTGRP:Sports
+http://voxtv.dynns.com:8000/movies/movies/529
+#EXTINF:0,Star Sports 2
+#EXTGRP:Sports
+http://voxtv.dynns.com:8000/movies/movies/528
+#EXTINF:0,BT Sport 1
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/470.ts
+#EXTINF:0,BT Sport 2
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/471.ts
+#EXTINF:0,Sky Sports Main Event 
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/533.ts
+#EXTINF:0,Sky Sports Football
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/530.ts
+#EXTINF:0,Sky Sports Cricket 
+#EXTGRP:Sports
+http://colorsiptv2.dynu.net:8081/globalbd/colorsbd_starsports1/chunks.m3u8
+#EXTINF:0,Sky Sports Premier League
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/536.ts
+#EXTINF:0,Sky Sports Mix
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/534.ts
+#EXTINF:0,MUTV
+#EXTGRP:Sports
+http://www.sansat.net:25461/live/3922504444/XByPE3gCPvyMvSw/8218.ts
+#EXTINF:0,D Sports
+#EXTGRP:Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0,Geo Super
+#EXTGRP:Sports
+http://voxtv.dynns.com:8000/movies/movies/1247
+#EXTINF:0,TSN 1
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/447.ts
+#EXTINF:0,TSN 2
+#EXTGRP:Sports
+http://185.246.209.109:8080/TSN2/tracks-v1a1/index.m3u8
+#EXTINF:0,TSN 3
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/449.ts
+#EXTINF:0,TSN 4
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/450.ts
+#EXTINF:0,TSN 5
+#EXTGRP:Sports
+http://x1.cdn.latincdn.net:10101/live/ofTajBVKXr/AcSEH0xZTE/451.ts
